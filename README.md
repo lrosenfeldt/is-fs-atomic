@@ -1,4 +1,4 @@
-# fs-atom
+# is fs atomic?
 
 A small experiment, where I tried to find out if a file system - ext4 in my case - protects against concurrent read and writes.
 
